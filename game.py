@@ -1,4 +1,4 @@
-# Program Name: Mazin Shaaeldin
+# Program Name: DrihiliForest
 # Developer Names: Mazin & Tom
 # Date Published: June 2019
 # Date Edited: December 2019
